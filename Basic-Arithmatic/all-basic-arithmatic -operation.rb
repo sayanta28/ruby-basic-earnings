@@ -29,5 +29,5 @@ elsif(second_number_f > first_number_f && first_number_f!=0)
 else puts "Can't Divide" #For fix 0 value
 
 end
-#Print Result
+#Print Div Result
 puts "Division Value = #{total}"
