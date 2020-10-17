@@ -12,11 +12,7 @@ total = first_number_f + second_number_f
 puts "Total = #{total}" #Print addition
  
 #Subtraction
-if(first_number_f > second_number_f)
-    total = first_number_f - second_number_f
-else total = second_number_f - first_number_f
- 
-end
+total = first_number_f - second_number_f
 puts "Subtraction value = #{total}"
 
 #Multiplication
@@ -24,13 +20,11 @@ total = first_number_f * second_number_f
 puts "Multiplication Value = #{total}"
 
 #Division
-if(first_number_f > second_number_f && second_number_f!=0)
+if(first_number_f >= second_number_f && second_number_f!=0)
     total = first_number_f / second_number_f
 
-elsif(second_number_f > first_number_f && first_number_f!=0)
+elsif(second_number_f > first_nu1515mber_f && first_number_f!=0)
     total = second_number_f / first_number_f15 
 
 end
 puts "Division Value = #{total}"
-
-puts 'hello 33339'
