@@ -7,7 +7,7 @@ Let's say **'Hello'** to Ruby. :D
 print "Hello World"
 ```
 #### Output:
->Hello World
+```Hello World```
 
 Now I am try to Print my name with `Hello World`. 😎
 ```ruby
@@ -15,7 +15,7 @@ print "Hello World "
 print "Sayanta Chy "
 ```
 #### Output:
->Hello WorldSayanta Chy
+```Hello WorldSayanta Chy```
 
 Lets's add new line a newline inside print method.
 ```ruby
