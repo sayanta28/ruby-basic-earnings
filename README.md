@@ -2,6 +2,12 @@
 Here I am going make doc about Ruby Basic Programming.
 Here I am following FreeCodeCamp YouTube Tutorial. [Link](https://www.youtube.com/watch?v=t_ispmWmdjY&t=610s)
 
+## Table of Content:
+
+1. **[Print ways](#printing-way)**
+2. **[variable](#variable)**
+
+## Printing Way 
 Let's say **'Hello'** to Ruby. :D
 ```ruby
 print "Hello World"
@@ -55,3 +61,5 @@ puts " /__|"
  / |
 /__|
 ```
+
+## Variable
