@@ -6,6 +6,7 @@ Here I am following FreeCodeCamp YouTube Tutorial. [Link](https://www.youtube.co
 
 1. **[Print ways](#printing-way)**
 2. **[variable](#variable)**
+3. **[OOP](#oop)**
 
 ## Printing Way 
 Let's say **'Hello'** to Ruby. :D
@@ -63,3 +64,9 @@ puts " /__|"
 ```
 
 ## Variable
+
+## OOP
+You could write any Ruby program without OOP.But using OOP makes things easier if you’re writing a non-trivial program. Why?
+
+
+Because OOP is all about how you design & organize your code.
