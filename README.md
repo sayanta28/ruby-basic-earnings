@@ -66,7 +66,6 @@ puts " /__|"
 ## Variable
 
 ## OOP
-You could write any Ruby program without OOP.But using OOP makes things easier if you’re writing a non-trivial program. Why?
-
+**(You could write any Ruby program without OOP.)**But using OOP makes things easier if you’re writing a non-trivial program. Why?
 
 Because OOP is all about how you design & organize your code.
